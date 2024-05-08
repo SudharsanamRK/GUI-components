@@ -2,15 +2,15 @@
 Note: Create button for colors and fonts while clicking color or font button should change 
 
 
-## AIM:
+## AIM
 
 To create an application that uses GUI Components with Fonts and Colors using Android Studio.
 
-## EQUIPMENTS REQUIRED:
+## EQUIPMENTS REQUIRED
 
 Latest Version Android Studio
 
-## ALGORITHM:
+## ALGORITHM
 ```
 1.Start a new project in Android Studio.
 2.Design a simple layout(.xml File).
@@ -19,14 +19,14 @@ Latest Version Android Studio
 5.Display corresponding changes in application.  
 ```
 
-## PROGRAM:
+## PROGRAM
 ```
 Program to print the text “GUIcomponent”.
 Developed by: Sudharsanam R K
 Registeration Number : 212222040163
 ```
 
-activity_main.xml
+## In activity_main.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
@@ -72,7 +72,7 @@ activity_main.xml
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
-MainActivity.java
+## In MainActivity.java
 ```java
 package com.example.guicomponents;
 
@@ -139,13 +139,9 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 ![GUI-Page](https://github.com/SudharsanamRK/GUI-components/assets/115523484/95b83965-5579-4130-bfff-c4f1aef3888c)
-# OUTPUT CHANGE
+
 ![After-BtnPress](https://github.com/SudharsanamRK/GUI-components/assets/115523484/9739a2c9-740a-43dd-bb11-fa3b85fb983d)
-
-
 
 
 ## RESULT
 Thus a Simple Android Application that uses GUI Components with Fonts and Colors using Android Studio is developed and executed successfully.
-
-
