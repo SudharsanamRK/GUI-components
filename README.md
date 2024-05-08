@@ -138,8 +138,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-![GUI-Page](https://github.com/SudharsanamRK/GUI-components/assets/115523484/95b83965-5579-4130-bfff-c4f1aef3888c)
-
+![image](https://github.com/SudharsanamRK/GUI-components/assets/115523484/2583119e-4703-44bb-8b16-82cd189846ee)
 ![After-BtnPress](https://github.com/SudharsanamRK/GUI-components/assets/115523484/9739a2c9-740a-43dd-bb11-fa3b85fb983d)
 
 
