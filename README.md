@@ -115,8 +115,6 @@ public class MainActivity extends AppCompatActivity {
                         break;
                     case 2:
                         t.setTextColor(Color.GREEN);
-```
-```
                         break;
                     case 3:
                         t.setTextColor(Color.BLUE);
@@ -124,6 +122,8 @@ public class MainActivity extends AppCompatActivity {
                     case 4:
                         t.setTextColor(Color.CYAN);
                         break;
+```
+```
                     case 5:
                         t.setTextColor(Color.YELLOW);
                         break;
