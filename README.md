@@ -57,8 +57,6 @@ Registeration Number : 212222040163
         app:layout_constraintBottom_toTopOf="@+id/button2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
-```
-```
     <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
@@ -122,8 +120,6 @@ public class MainActivity extends AppCompatActivity {
                     case 4:
                         t.setTextColor(Color.CYAN);
                         break;
-```
-```
                     case 5:
                         t.setTextColor(Color.YELLOW);
                         break;
